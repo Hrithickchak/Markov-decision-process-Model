@@ -7,15 +7,15 @@ The agent would like to finish the maze as quickly as possible,
 so all rewards have a discount rate γ = 0.95.
 
 Used reinforcement learning to help the agent solve the maze as quickly as possible. 
-Implement  Q-learning algorithm. 
+Implemented  Q-learning algorithm. 
 The agent will use a epsilon-greedy behaviour policy to ensure adequate exploration of the maze.
 The constants γ, ε and step size are given as attributes of the agent. 
 
-Program can be tested by running the module defined in main.py. Program also can be run using python3 main.py. 
+Program can be tested by running the module defined in main.py. Program can also be run using python3 main.py. 
 An automated graphic will display a final episode after training has been completed. 
 A learning curve, showing the length of episodes over time will be generated in learning curve.png.
 
-In the function display final episode() the agent is evaluated using a greedy policy, instead of an ε-greedy policy.
+In the function, display_final_episode(),  the agent will be evaluated using a greedy policy, instead of an ε-greedy policy.
 
 
 
