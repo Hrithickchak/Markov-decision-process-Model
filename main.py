@@ -1,10 +1,3 @@
-
-"""
-This is the main file that will run the agent in agent.py on the environment specified
-in environment.py. Feel free to modify this file to help debugging, but we will be using
-a copy of it to test your code.
-"""
-
 import time
 import numpy as np
 import os
