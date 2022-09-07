@@ -17,7 +17,7 @@ A learning curve, showing the length of episodes over time will be generated in 
 
 In the function, display_final_episode(),  the agent will be evaluated using a greedy policy, instead of an ε-greedy policy.
 
-![alt text](https://github.com/Hrithickchak/Markov-decision-process-Model/blod/main/maze.png?raw=true)
+![alt text](https://github.com/Hrithickchak/Markov-decision-process-Model/blob/main/maze.png?raw=true)
 
 
 
